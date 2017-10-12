@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project name="LineageOS/android_device_wileyfox_crackling" path="device/wileyfox/crackling" remote="github" revision="cm-14.1" />
+ <project name="LineageOS/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-14.1" />
+ <project name="LineageOS/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="github" revision="cm-14.1" />
+ <project name="TheMuppets/proprietary_vendor_wileyfox" path="vendor/wileyfox" remote="github" revision="cm-14.1" />
+</manifest>

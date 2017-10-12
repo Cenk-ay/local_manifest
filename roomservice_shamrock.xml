@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project name="Asderdd/android_device_google_shamrock" path="device/google/shamrock" remote="github" revision="cm-14.1-test" />
+ <project name="Asderdd/android_kernel_google_shamrock" path="kernel/google/shamrock" remote="github" revision="rr-nougat" />
+ <project name="Asderdd/proprietary_vendor_google" path="vendor/google" remote="github" revision="cm-14.1" />
+</manifest>
